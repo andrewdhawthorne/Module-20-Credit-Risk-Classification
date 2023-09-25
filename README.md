@@ -9,7 +9,7 @@ In this challenge I used Python and supervised learning techniques to evaluate a
 
 2. Created a logistic regression model. 
 
-See report for analysis. 
+See full analysis report in `Credit_Risk` folder. 
 
 ### Sources: 
 
