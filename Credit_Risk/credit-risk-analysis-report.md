@@ -1,6 +1,6 @@
-# Module 20 Credit Risk Analysis Report 
+# Credit Risk Analysis Report 
 
-## Overview of the Analysis
+## Overview 
 
 Supervised machine learning techniques are applied to evaluate a model that can identify the creditworthiness of borrowers using a dataset of historical lending activity from a peer-to-peer lending services company.
 
