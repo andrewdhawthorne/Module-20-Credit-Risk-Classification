@@ -9,7 +9,7 @@ In this challenge I used Python and supervised learning techniques to evaluate a
 
 2. Created a logistic regression model. 
 
-##### Analysis: The logistic regression model predicts healthy loans with 100% precision, and predicts high-risk loans with 87% precision. Further analysis is required as 100% predicition precision is uncommon. See report for more information. 
+See report for analysis. 
 
 ### Sources: 
 
